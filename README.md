@@ -1,4 +1,4 @@
-# ASAS -> Copyright @Alakesh Kalita<alakesh.kalita1025@gmail.com>
+# TACTILE -> Copyright @Alakesh Kalita  <alakesh.kalita1025@gmail.com>
 
 # It is a modified version. Therefore, I'm always thankful to the orginal author Simon Duquennoy <simonduq@sics.se> and his co-programmers.
 
